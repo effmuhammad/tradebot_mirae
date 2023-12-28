@@ -1,0 +1,12 @@
+command hq
+bsjp: 
+/score100 koko,vspike1,bb3
+/SCORE100 TVAL;2,BPR;2,MINVOL;2,VSPIKE1 
+
+Sarapan pagi (jam 9.02 sd 9.06) bisa dg score:
+/Score100 tg,tf,bpr,tval
+
+chart:
+/c XXXX i42,i101,i103,i106,i41,sma10,sma20,sma50,p1,z50
+/mfq XXXX
+/mfqhis XXXX

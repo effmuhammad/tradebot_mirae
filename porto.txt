@@ -1,0 +1,2 @@
+ 	Code	Notasi	Avg	Last	Lot	Shares	Value	Ptsl(+/-)	(%)	
+1	SIDO	 	810	805	1	100	80,500	-500	-0.6	

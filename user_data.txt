@@ -1,0 +1,2 @@
+G:/My Drive/Tradebot/daftar_saham.csv
+G:/My Drive/Tradebot/data_order.xlsx
