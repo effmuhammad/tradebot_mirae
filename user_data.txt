@@ -1,2 +1,2 @@
-G:/My Drive/Tradebot/daftar_saham.csv
+C:/Users/Administrator/Documents/tradebot_mirae/extract_mfqspike/mfqspike.csv
 G:/My Drive/Tradebot/data_order.xlsx

@@ -80,8 +80,8 @@ def order_buy(kode, price, lot, live = False):
     pyautogui.write(str(int(price)))
     pyautogui.click(x = 640, y = 478, clicks=2) # set order quantity
     pyautogui.write(str(int(lot)))
-    pyautogui.click(x = 913, y = 478) # dropdown order price 
-    pyautogui.click(x = 872, y = 530) # select offer+2
+    # pyautogui.click(x = 913, y = 478) # dropdown order price 
+    # pyautogui.click(x = 872, y = 530) # select offer+2
     pyautogui.click(x = 620, y = 618) # set tanggal
     pyautogui.write(get_valid_date())
     pyautogui.click(x = 812, y = 615) # save setting
